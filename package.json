@@ -1,0 +1,15 @@
+{
+  "name": "webpack-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dll": "webpack --config webpack.dll.js",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
+}
